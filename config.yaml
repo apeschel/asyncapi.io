@@ -1,4 +1,4 @@
-baseURL: https://www.asyncapi.com/
+baseURL: https://www.asyncapi.io/
 languageCode: en-us
 title: AsyncAPI Initiative
 theme: hugo-fresh
@@ -25,7 +25,7 @@ params:
   meta: 
     description: Create machine-readable definitions of your message-driven systems.
     og:
-      url: https://www.asyncapi.com/
+      url: https://www.asyncapi.io/
   navbarlogo:
     image: logo.png
     link: /
@@ -63,7 +63,7 @@ params:
   - title: Tooling
     sublinks:
     - title: Playground
-      url: http://playground.asyncapi.io?utm_source=asyncapi.com&utm_medium=top-menu
+      url: http://playground.asyncapi.io?utm_source=asyncapi.io&utm_medium=top-menu
       blank: true
     - title: Code generators
       url: /docs/tooling#codegens
@@ -81,7 +81,7 @@ params:
       url: https://github.com/asyncapi/asyncapi
       blank: true
     - title: Slack workspace
-      url: https://asyncapi.com/slack-invite
+      url: https://asyncapi.io/slack-invite
       blank: true
   - title: About
     url: /about

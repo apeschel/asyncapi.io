@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AsyncAPI Initiative</title>
+    <link>https://www.asyncapi.io/</link>
+    <description>Recent content on AsyncAPI Initiative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Feb 2019 13:56:52 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.asyncapi.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.asyncapi.io/about/</link>
+      <pubDate>Sat, 16 Feb 2019 13:56:52 +0100</pubDate>
+      
+      <guid>https://www.asyncapi.io/about/</guid>
+      <description>Maintainers and Contributors Fran Méndez is currently the project director.
+Current maintainers are Mike Ralphson and Raisel Melian.
+So far, we have had many contributors and we are thankful for their time and help. Until the day of this writing, main contributors are:
+ Bruno Pedro Chris Wood Dulce De La Rosa Emmelyn Wang Jonathan Schabowsky Kin Lane Lukasz Gornicki Maciej Urbańczyk  Would you like to contribute? Check out our contributing guidelines.</description>
+    </item>
+    
+  </channel>
+</rss>
