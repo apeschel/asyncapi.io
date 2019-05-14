@@ -1,6 +1,6 @@
 # AsyncAPI website
 
-This repo contains the asyncapi.org website. It's powered by [Hugo](https://gohugo.io).
+This repo contains the asyncapi.io website. It's powered by [Hugo](https://gohugo.io).
 
 ## Installation
 
