@@ -1,0 +1,4 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+https://asyncapi.com/* https://www.asyncapi.io/:splat 301!
+https://www.asyncapi.com/* https://www.asyncapi.io/:splat 301!
